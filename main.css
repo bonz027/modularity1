@@ -67,7 +67,7 @@ tr:last-child {
     padding: 5px;
 }
 
-/*Lightbox */
+/*Lightbox 
 
 #grey-box {
     position: fixed;
@@ -108,4 +108,23 @@ tr:last-child {
 a {
     color: #fff;
     text-decoration: none;
+} */
+
+
+/*Media Block */
+
+.media-img {
+    display: block;
+    float: left;
+}
+
+.media-comment {
+    display: block;
+    float: right;
+    width: 85%;
+    padding-right: 35px;
+}
+
+.media-img-inner {
+    margin-top: 60px;
 }
